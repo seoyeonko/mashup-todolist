@@ -10,6 +10,8 @@
 - TodoItem: 각 할 일에 대한 정보를 렌더링
 - TodoCreate: 새로운 할 일을 등록
 
-### 프로젝트 동작
+### 프로젝트 UI
+
+<img width="50%" src="https://user-images.githubusercontent.com/55572222/118999463-4018e000-b9c5-11eb-857f-b2bba438e1b8.mov" />
 
 ## Context API를 이용한 상태 관리
